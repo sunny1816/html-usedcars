@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+  <car id="c1">
+    <make>Maruti</make>
+    <model>Swift</model>
+    <year>2018</year>
+    <km>52000</km>
+    <price>450000</price>
+    <city>New Delhi</city>
+    <phone>+91-11-9000-1000</phone>
+    <image>images/maruthi.jpg</image>
+  </car>
+  <car id="c2">
+    <make>Hyundai</make>
+    <model>i20</model>
+    <year>2017</year>
+    <km>68000</km>
+    <price>430000</price>
+    <city>Mumbai</city>
+    <phone>+91-22-9000-1001</phone>
+    <image>images/hyundai.avif</image>
+  </car>
+  <car id="c3">
+    <make>Toyota</make>
+    <model>Innova</model>
+    <year>2015</year>
+    <km>110000</km>
+    <price>1200000</price>
+    <city>Kolkata</city>
+    <phone>+91-33-9000-1002</phone>
+    <image>images/toyota.jpg</image>
+  </car>
+  <car id="c4">
+    <make>Honda</make>
+    <model>City</model>
+    <year>2016</year>
+    <km>85000</km>
+    <price>650000</price>
+    <city>Bengaluru</city>
+    <phone>+91-80-9000-1003</phone>
+    <image>images/honda.avif</image>
+  </car>
+</cars>
