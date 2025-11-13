@@ -18,7 +18,7 @@
     <price>430000</price>
     <city>Mumbai</city>
     <phone>+91-22-9000-1001</phone>
-    <image>images/hyundai.avif</image>
+    <image>images/hyundai.jpg</image>
   </car>
   <car id="c3">
     <make>Toyota</make>
@@ -38,6 +38,7 @@
     <price>650000</price>
     <city>Bengaluru</city>
     <phone>+91-80-9000-1003</phone>
-    <image>images/honda.avif</image>
+    <image>images/honda.jpg</image>
   </car>
 </cars>
+
