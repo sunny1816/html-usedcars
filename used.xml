@@ -8,7 +8,7 @@
     <price>450000</price>
     <city>New Delhi</city>
     <phone>+91-11-9000-1000</phone>
-    <image>placeholder-car.png</image>
+    <image>images/placeholder-car.png</image>
   </car>
   <car id="c2">
     <make>Hyundai</make>
@@ -18,7 +18,7 @@
     <price>430000</price>
     <city>Mumbai</city>
     <phone>+91-22-9000-1001</phone>
-    <image>placeholder-car.png</image>
+    <image>images/placeholder-car.png</image>
   </car>
   <car id="c3">
     <make>Toyota</make>
@@ -28,7 +28,7 @@
     <price>1200000</price>
     <city>Kolkata</city>
     <phone>+91-33-9000-1002</phone>
-    <image>placeholder-car.png</image>
+    <image>images/placeholder-car.png</image>
   </car>
   <car id="c4">
     <make>Honda</make>
@@ -38,8 +38,9 @@
     <price>650000</price>
     <city>Bengaluru</city>
     <phone>+91-80-9000-1003</phone>
-    <image>placeholder-car.png</image>
+    <image>images/placeholder-car.png</image>
   </car>
 </cars>
+
 
 
